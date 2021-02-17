@@ -1,0 +1,6 @@
+/*.js
+node_modules
+dist
+data
+coverage
+jest.config.ts
